@@ -6,14 +6,10 @@
 }
 body {
   background-color: var(--bg-color);
-  display: flex;
-  justify-content: center;
   margin: 0;
   padding: 0;
 }
 .bg {
-  display: flex;
-  flex-direction: column;
   width: 40rem;
   height: 40rem;
   background: var(--bg-img) center/cover;
